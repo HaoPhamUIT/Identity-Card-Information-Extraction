@@ -1,0 +1,3 @@
+ultralytics==8.3.40
+vietocr==0.3.13
+streamlit==1.40.2
